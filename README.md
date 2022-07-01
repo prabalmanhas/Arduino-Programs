@@ -1,8 +1,12 @@
 # Tinkercad Arduino Program Codes/Outputs & Schematics PDF's
 
 # 🔋📁 Circuit Files and PDF's are included in their respective folders.
-![banner](/arduino.png) 
+
+![banner](/arduino.png)<p/>
+![folders](/folders.png) <p/>
+![files](/files.png) <p/>
 <br/>
+## FOLDERS IN THE REPOSITORY :-
 ## * 7 Segment Display
 ## * AND Gate
 ## * Dark Detector
