@@ -22,4 +22,3 @@
 ### * Two Way Switch
 ### * XNOR Gate
 ### * XOR Gate
-### --------- Thanks ---------
